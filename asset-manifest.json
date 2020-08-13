@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kilogram/static/css/main.c2914539.chunk.css",
+    "main.js": "/kilogram/static/js/main.8db14282.chunk.js",
+    "main.js.map": "/kilogram/static/js/main.8db14282.chunk.js.map",
+    "runtime-main.js": "/kilogram/static/js/runtime-main.7b7ca307.js",
+    "runtime-main.js.map": "/kilogram/static/js/runtime-main.7b7ca307.js.map",
+    "static/js/2.19d75fca.chunk.js": "/kilogram/static/js/2.19d75fca.chunk.js",
+    "static/js/2.19d75fca.chunk.js.map": "/kilogram/static/js/2.19d75fca.chunk.js.map",
+    "index.html": "/kilogram/index.html",
+    "precache-manifest.a87a96d9261c0f59d9c93d53131b7b58.js": "/kilogram/precache-manifest.a87a96d9261c0f59d9c93d53131b7b58.js",
+    "service-worker.js": "/kilogram/service-worker.js",
+    "static/css/main.c2914539.chunk.css.map": "/kilogram/static/css/main.c2914539.chunk.css.map",
+    "static/js/2.19d75fca.chunk.js.LICENSE.txt": "/kilogram/static/js/2.19d75fca.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kilogram/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b7ca307.js",
+    "static/js/2.19d75fca.chunk.js",
+    "static/css/main.c2914539.chunk.css",
+    "static/js/main.8db14282.chunk.js"
+  ]
+}
